@@ -1,0 +1,5 @@
+{
+  "name": "Motion XR Haptic Grid",
+  "description": "A high-performance R3F recreation of a Unity Motion XR demo featuring interactive haptic tiles and isometric orthographic projection.",
+  "requestFramePermissions": []
+}
